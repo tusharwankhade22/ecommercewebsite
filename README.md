@@ -30,6 +30,16 @@ A responsive mini e-commerce web application built using **React** and **Materia
 
 ---
 
+## 🙌 Acknowledgements
+FakeStoreAPI
+
+Material UI
+---
+
+## 🧑‍💻 Author
+Tushar Wankhade
+
+
 ## 📦 Installation
 
 ```bash
@@ -38,11 +48,6 @@ cd mini-ecommerce
 npm install
 npm start
 
----
-## 🙌 Acknowledgements
-FakeStoreAPI
-
-Material UI
 
 
 
