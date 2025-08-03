@@ -32,8 +32,9 @@ A responsive mini e-commerce web application built using **React** and **Materia
 
 ## 🙌 Acknowledgements
 FakeStoreAPI
-
 Material UI
+
+
 ---
 
 ## 🧑‍💻 Author
