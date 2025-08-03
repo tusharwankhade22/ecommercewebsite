@@ -38,3 +38,11 @@ cd mini-ecommerce
 npm install
 npm start
 
+---
+## 🙌 Acknowledgements
+FakeStoreAPI
+
+Material UI
+
+
+
